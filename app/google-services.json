@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "516281308505",
+    "project_id": "feastfleet-86033",
+    "storage_bucket": "feastfleet-86033.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:516281308505:android:520de13b11bec9fe2d2848",
+        "android_client_info": {
+          "package_name": "com.hiskytech.feastfleet"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBW0Cx_9SCvS-ZRWGKJTHkZdF2g0IU-3wY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
